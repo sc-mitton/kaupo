@@ -35,8 +35,8 @@ or download the VSIX file from ./
 
 ## Samples
 
-<img src="images/sample1.png" alt="image" width="40%">
-<img src="images/sample2.png" alt="image" width="60%">
-<img src="images/full.png" alt="image" width="60%">
+<img src="images/image2.png" alt="image" width="40%">
+<img src="images/image2.png" alt="image" width="60%">
+<img src="images/fullscreen.png" alt="image" width="60%">
 
 License: MIT
