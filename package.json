@@ -1,0 +1,48 @@
+{
+  "name": "kaupo",
+  "displayName": "Kaupo",
+  "description": "Muted version of the vs code monokai theme",
+  "version": "0.0.1",
+  "publisher": "sc-mitton",
+  "author": {
+    "name": "sc-mitton"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kaupo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kaupo-color-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/sc-mitton/kaupo/issues",
+    "email": "scmitton.byu@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sc-mitton/kaupo.git"
+  },
+  "galleryBanner": {
+    "color": "#2E2E2C",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/sc-mitton/kaupo/blob/main/README.md",
+  "keywords": [
+    "themes",
+    "color-theme",
+    "monokai",
+    "monokai color theme",
+    "kaupo theme",
+    "kaupo color theme",
+    "kaupo",
+    "muted monokai"
+  ]
+}
